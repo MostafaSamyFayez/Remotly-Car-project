@@ -1,7 +1,10 @@
 # Arduino C
 
 
-<img src="images/1.PNG" width= "500">
+
+<img src="Images/1.jpg" width= "500" height= "600">
+
+
 
 
 
